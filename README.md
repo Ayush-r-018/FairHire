@@ -105,12 +105,11 @@ Target Variable:
 - [X] Virtual Environment
 - [X] GitHub Repository
 - [X] Notebook 01 – Data Loading & Exploration
-
-Notebook 02 – Data Preprocessing
+- [X] Notebook 02 – Data Preprocessing
 
 ### In Progress
 
-Feature Engineering
+- [ ] Feature Engineering
 
 ### Upcoming
 

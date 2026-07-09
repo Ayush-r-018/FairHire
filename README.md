@@ -106,15 +106,15 @@ Target Variable:
 - [X] GitHub Repository
 - [X] Notebook 01 – Data Loading & Exploration
 - [X] Notebook 02 – Data Preprocessing
+- [X] Feature Engineering
+- [X] Model Training
 
 ### In Progress
 
-- [ ] Feature Engineering
+- [ ] Model Evaluation
 
 ### Upcoming
 
-- [ ] Model Training
-- [ ] Model Evaluation
 - [ ] Model Comparison
 - [ ] Model Saving
 

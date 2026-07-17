@@ -108,12 +108,9 @@ Target Variable:
 - [X] Notebook 02 – Data Preprocessing
 - [X] Feature Engineering
 - [X] Model Training
+- [X] Model Evaluation
 
 ### In Progress
-
-- [ ] Model Evaluation
-
-### Upcoming
 
 - [ ] Model Comparison
 - [ ] Model Saving

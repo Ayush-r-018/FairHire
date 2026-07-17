@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Random Forest,0.5808,0.5788,0.5771,0.5779
+Logistic Regression,0.5799,0.5781,0.5741,0.5761
+Linear SVM,0.5759,0.573,0.5781,0.5755
+Multinomial Naive Bayes,0.5705,0.5513,0.7332,0.6293
+Dummy Classifier,0.5027,0.0,0.0,0.0
